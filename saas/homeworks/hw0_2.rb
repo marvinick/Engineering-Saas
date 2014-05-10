@@ -1,6 +1,6 @@
 
 def hello(name)
-  puts "Hello " + name
+  return "Hello, " + name
 end
 
 
